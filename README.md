@@ -12,7 +12,7 @@ This version of the project template includes new options for Django 1.8, 1.9, 1
 The goal of this template is to set up a fully functional django project in minutes, and have a clear project structure.
 
 The project structure:
-
+```
 src                   # project root  
 ├── manage.py
 ├── /static
@@ -29,7 +29,7 @@ src                   # project root
 │    ...
 ├── /myApp            # create your app using Startapp..    
     ... 
-
+```
 
 Demo: http://dj.lxer.eu
 
