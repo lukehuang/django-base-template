@@ -16,7 +16,7 @@ The project structure:
 src                   # project root  
 ├── manage.py
 ├── /static
-├── /config           # project configururation 
+├── /config           # project configuration 
 │   ├── /settings   
 │   │   ├── base.py   # project settings   
 │   │   ├── local.py  # local settings (development)
