@@ -22,7 +22,7 @@ src                   # project root
 │   │   ├── local.py  # local settings (development)
 │   ├── urls.py        
 │   ├── wsgi.py
-├── /base             # base templates and static files  
+├── /layout           # base templates and static files  
 │   ├── models.py
 │   ├── /static
 │   ├── /templates

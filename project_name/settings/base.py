@@ -63,7 +63,7 @@ INSTALLED_APPS = (
     
 
     # Application base, containing global templates.
-    'base',
+    'layout',
 
     # Local apps, referenced via appname
 )
@@ -169,8 +169,8 @@ TEMPLATES = [
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [    
                # insert your TEMPLATE_DIRS here
-               os.path.join(PROJECT_ROOT, 'base/templates'),
-               os.path.join(PROJECT_ROOT, 'base/templates/allauth'),
+               os.path.join(PROJECT_ROOT, 'layout/templates'),
+               os.path.join(PROJECT_ROOT, 'layout/templates/allauth'),
         ],
         'APP_DIRS': True,
         'OPTIONS': {
