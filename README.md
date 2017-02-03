@@ -33,7 +33,7 @@ src                   # project root
 
 Demo: http://dj.lxer.eu
 
-![django installation](http://i.imgur.com/kJcha7b.gifv)
+![](http://i.imgur.com/kJcha7b.gif)
 ## Installation ##
 
 
