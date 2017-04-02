@@ -57,7 +57,7 @@ http://i.imgur.com/kJcha7b.gif
 - $ source bin/activate
 
 - run install.sh :
-      - $ source <(wget -qO- https://raw.githubusercontent.com/allox/django-base-template/master/install.sh)
+   - $ source <(wget -qO- https://raw.githubusercontent.com/allox/django-base-template/master/install.sh)
   
 (To see what actually happens check https://raw.githubusercontent.com/allox/django-base-template/master/install.sh )
 
