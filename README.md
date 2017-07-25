@@ -33,7 +33,7 @@ src                   # project root
 
 Demo: http://dj.lxer.eu
 
-http://i.imgur.com/kJcha7b.gif
+![](http://i.imgur.com/kJcha7b.gif)
 
 ## Installation ##
 
